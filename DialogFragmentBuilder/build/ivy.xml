@@ -4,7 +4,7 @@
 		module="DialogFragmentBuilder"
 		revision="unspecified"
 		status="integration"
-		publication="20130630235107"
+		publication="20130701010157"
 	/>
 	<configurations>
 		<conf name="archives" visibility="public" description="Configuration for archive artifacts."/>

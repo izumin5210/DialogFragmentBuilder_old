@@ -92,7 +92,7 @@ public class AlertDialogFragment extends DialogFragment {
             builder.setView(inflater.inflate(args.getInt(KEY_LAYOUT_ID), null, false));
         }
 
-        builder.setCancelable(args.getBoolean(KEY_CANCELABLE));
+        this.setCancelable(args.getBoolean(KEY_CANCELABLE));
 
         return builder.create();
     }

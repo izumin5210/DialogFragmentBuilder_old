@@ -42,7 +42,7 @@ public class ProgressDialogFragment extends DialogFragment {
         }
 
         dialog.setIndeterminate(args.getBoolean(KEY_INDETERMINATE));
-        dialog.setCancelable(args.getBoolean(KEY_CANCELABLE));
+        this.setCancelable(args.getBoolean(KEY_CANCELABLE));
 
         return dialog;
     }

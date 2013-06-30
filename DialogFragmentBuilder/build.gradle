@@ -30,7 +30,7 @@ uploadArchives {
     repositories {
         mavenDeployer {
             repository url: "file:///Users/izumin/Documents/works/android/DialogFragmentBuilderProject/repository" // デプロイ先
-            pom.version = '1.0.5' // ライブラリバージョン
+            pom.version = '1.0.6' // ライブラリバージョン
             pom.groupId = 'info.izumin.android' // グループ名
             pom.artifactId = 'dialogfragmentbuilder' // アーティファクト名
         }
