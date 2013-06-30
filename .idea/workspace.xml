@@ -7,29 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fe88e6e-f3b5-4a8c-b055-0d781af1c34d" name="Default" comment="name README to README.md">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DialogFragmentBuilder/build/source/buildConfig/debug/info/izumin/android/dialogfragmentbuilder/BuildConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DialogFragmentBuilder/build/source/buildConfig/release/info/izumin/android/dialogfragmentbuilder/BuildConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DialogFragmentBuilder/build/source/r/debug/info/izumin/android/dialogfragmentbuilder/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DialogFragmentBuilder/build/source/r/release/info/izumin/android/dialogfragmentbuilder/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/android_support_v4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DialogFragmentBuilder/src/main/java/info/izumin/android/dialogfragmentbuilder/AlertDialogFragment.java" afterPath="$PROJECT_DIR$/DialogFragmentBuilder/src/main/java/info/izumin/android/dialogfragmentbuilder/AlertDialogFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DialogFragmentBuilder/DialogFragmentBuilder.iml" afterPath="$PROJECT_DIR$/DialogFragmentBuilder/DialogFragmentBuilder.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DialogFragmentBuilderProject.iml" afterPath="$PROJECT_DIR$/DialogFragmentBuilderProject.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DialogFragmentBuilder/src/main/java/info/izumin/android/dialogfragmentbuilder/ProgressDialogFragment.java" afterPath="$PROJECT_DIR$/DialogFragmentBuilder/src/main/java/info/izumin/android/dialogfragmentbuilder/ProgressDialogFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DialogFragmentBuilder/src/main/java/info/izumin/android/dialogfragmentbuilder/support/SupportAlertDialogFragment.java" afterPath="$PROJECT_DIR$/DialogFragmentBuilder/src/main/java/info/izumin/android/dialogfragmentbuilder/support/SupportAlertDialogFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DialogFragmentBuilder/src/main/java/info/izumin/android/dialogfragmentbuilder/support/SupportProgressDialogFragment.java" afterPath="$PROJECT_DIR$/DialogFragmentBuilder/src/main/java/info/izumin/android/dialogfragmentbuilder/support/SupportProgressDialogFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DialogFragmentBuilder/build.gradle" afterPath="$PROJECT_DIR$/DialogFragmentBuilder/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DialogFragmentBuilder.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -95,73 +73,7 @@
     <favorites_list name="DialogFragmentBuilder" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="SupportAlertDialogFragment.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DialogFragmentBuilder/src/main/java/info/izumin/android/dialogfragmentbuilder/support/SupportAlertDialogFragment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="91" column="63" selection-start="3760" selection-end="3760" vertical-scroll-proportion="0.0" vertical-offset="624" max-vertical-offset="4251">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SupportProgressDialogFragment.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DialogFragmentBuilder/src/main/java/info/izumin/android/dialogfragmentbuilder/support/SupportProgressDialogFragment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="0" selection-start="1386" selection-end="1386" vertical-scroll-proportion="0.0" vertical-offset="166" max-vertical-offset="2080">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProgressDialogFragment.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DialogFragmentBuilder/src/main/java/info/izumin/android/dialogfragmentbuilder/ProgressDialogFragment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="19" selection-start="1342" selection-end="1342" vertical-scroll-proportion="0.0" vertical-offset="91" max-vertical-offset="2093">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DialogFragmentBuilder/src/main/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="260">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="21" selection-start="1195" selection-end="1195" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="845">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DialogFragmentBuilder/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="31" selection-start="678" selection-end="678" vertical-scroll-proportion="0.45564073" vertical-offset="0" max-vertical-offset="913">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AlertDialogFragment.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DialogFragmentBuilder/src/main/java/info/izumin/android/dialogfragmentbuilder/AlertDialogFragment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="94" column="63" selection-start="3820" selection-end="3820" vertical-scroll-proportion="0.0" vertical-offset="3273" max-vertical-offset="4186">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -227,9 +139,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1366" />
+    <option name="x" value="1484" />
+    <option name="y" value="111" />
     <option name="width" value="1916" />
-    <option name="height" value="1059" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -257,6 +170,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -377,7 +291,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -396,8 +309,8 @@
     <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -577,8 +490,8 @@
     <option name="totallyTimeSpent" value="3794000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1366" y="0" width="1916" height="1059" extended-state="0" />
-    <editor active="true" />
+    <frame x="1484" y="111" width="1916" height="1080" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32931036" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -596,7 +509,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17628205" sideWeight="0.4948276" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17628205" sideWeight="0.4948276" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -671,6 +584,13 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DialogFragmentBuilder/src/main/java/info/izumin/android/dialogfragmentbuilder/AlertDialogFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="63" selection-start="3820" selection-end="3820" vertical-scroll-proportion="0.0" vertical-offset="1209" max-vertical-offset="4329">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DialogFragmentBuilder/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="0" selection-start="233" selection-end="233" vertical-scroll-proportion="0.0" vertical-offset="154" max-vertical-offset="406" />
@@ -721,19 +641,10 @@
         <state line="1" column="0" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="98" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DialogFragmentBuilder/src/main/java/info/izumin/android/dialogfragmentbuilder/AlertDialogFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="63" selection-start="3820" selection-end="3820" vertical-scroll-proportion="0.0" vertical-offset="3273" max-vertical-offset="4186">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DialogFragmentBuilder/src/main/java/info/izumin/android/dialogfragmentbuilder/support/SupportAlertDialogFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="91" column="63" selection-start="3760" selection-end="3760" vertical-scroll-proportion="0.0" vertical-offset="624" max-vertical-offset="4251">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -767,7 +678,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DialogFragmentBuilder/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="31" selection-start="678" selection-end="678" vertical-scroll-proportion="0.45564073" vertical-offset="0" max-vertical-offset="913">
+        <state line="32" column="31" selection-start="678" selection-end="678" vertical-scroll-proportion="0.44539616" vertical-offset="0" max-vertical-offset="934">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DialogFragmentBuilder/src/main/java/info/izumin/android/dialogfragmentbuilder/AlertDialogFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="63" selection-start="3820" selection-end="3820" vertical-scroll-proportion="0.54282653" vertical-offset="572" max-vertical-offset="4186">
           <folding />
         </state>
       </provider>
