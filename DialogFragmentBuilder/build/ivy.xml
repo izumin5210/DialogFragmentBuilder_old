@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
+	<info organisation="DialogFragmentBuilderProject"
+		module="DialogFragmentBuilder"
+		revision="unspecified"
+		status="integration"
+		publication="20130630235107"
+	/>
+	<configurations>
+		<conf name="archives" visibility="public" description="Configuration for archive artifacts."/>
+		<conf name="compile" visibility="private" description="Classpath for compiling the main sources."/>
+		<conf name="debugCompile" visibility="private" description="Classpath for compiling the debug sources."/>
+		<conf name="debugPackage" visibility="private" description="Classpath packaged with the compiled debug classes." extends="debugCompile"/>
+		<conf name="default" visibility="public" description="Configuration for default artifacts." extends="package,releasePackage"/>
+		<conf name="instrumentTestCompile" visibility="private" description="Classpath for compiling the instrumentTest sources."/>
+		<conf name="instrumentTestPackage" visibility="private" description="Classpath packaged with the compiled instrumentTest classes." extends="instrumentTestCompile"/>
+		<conf name="package" visibility="private" description="Classpath packaged with the compiled main classes." extends="compile"/>
+		<conf name="releaseCompile" visibility="private" description="Classpath for compiling the release sources."/>
+		<conf name="releasePackage" visibility="private" description="Classpath packaged with the compiled release classes." extends="releaseCompile"/>
+	</configurations>
+	<publications>
+		<artifact name="DialogFragmentBuilder" type="aar" ext="aar" conf="archives,default"/>
+	</publications>
+</ivy-module>

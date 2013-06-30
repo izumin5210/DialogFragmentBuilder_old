@@ -35,6 +35,7 @@
     }
 
 ## version history
+- 2013/06/30 fix bugs
 - 2013/06/21 fisrt commit
 
 ## licence

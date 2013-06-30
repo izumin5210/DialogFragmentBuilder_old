@@ -89,6 +89,8 @@ public class SupportAlertDialogFragment extends DialogFragment {
             builder.setView(inflater.inflate(args.getInt(KEY_LAYOUT_ID), null, false));
         }
 
+        builder.setCancelable(args.getBoolean(KEY_CANCELABLE));
+
         return builder.create();
     }
 

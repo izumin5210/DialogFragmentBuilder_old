@@ -41,13 +41,8 @@ public class ProgressDialogFragment extends DialogFragment {
             dialog.setProgressStyle(args.getInt(KEY_STYLE));
         }
 
-        if (args.containsKey(KEY_INDETERMINATE)) {
-            dialog.setIndeterminate(args.getBoolean(KEY_INDETERMINATE));
-        }
-
-        if (args.containsKey(KEY_CANCELABLE)) {
-            dialog.setCancelable(args.getBoolean(KEY_CANCELABLE));
-        }
+        dialog.setIndeterminate(args.getBoolean(KEY_INDETERMINATE));
+        dialog.setCancelable(args.getBoolean(KEY_CANCELABLE));
 
         return dialog;
     }
